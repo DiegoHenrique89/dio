@@ -1,5 +1,5 @@
 let nome = "DH89"
-let xp = 1300
+let xp = 8300
 let nivel;
 
 if(xp <= 1000){
